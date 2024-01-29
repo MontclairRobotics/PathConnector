@@ -1,0 +1,17 @@
+{
+  "name": "pathconnector",
+  "version": "1.0.0",
+  "description": "connect paths on the fly",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "abe"
+  ],
+  "author": "Montclair Robotics",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^28.2.0"
+  }
+}
