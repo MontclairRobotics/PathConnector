@@ -1,0 +1,13 @@
+* {
+    background-color: rgb(15, 17, 23);
+}
+img {
+    
+    
+    max-width: 100%;
+    height: auto;
+    
+}
+::-webkit-scrollbar {
+    display: none;
+}
